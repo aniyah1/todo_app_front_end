@@ -1,5 +1,6 @@
 h1{
     color: pink;
+    text-align: center
 }
 
 html{
@@ -7,14 +8,23 @@ html{
 }
 
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
-li {
-    color: pink;
+li a{
+    color: purple;
+    font-size:60px
 }
 
 .pomodoro-estimate{
     font-weight: bold;
     color: pink;
+
 }
+ ul{
+     margin-left: 300px;
+ }
+  li {
+      padding:10px;
+  }
+  
